@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SerpApiSearchNew.iml" filepath="$PROJECT_DIR$/SerpApiSearchNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APIs.iml" filepath="$PROJECT_DIR$/APIs.iml" />
     </modules>
   </component>
 </project>
